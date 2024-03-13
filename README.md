@@ -12,8 +12,6 @@ com detalhes a importância de tornar um site responsivo para visualização em 
 
 
 <img src="https://github.com/Thiago-Maia-github/We-Care/blob/master/assets/Captura%20de%20tela%20de%202024-03-12%2019-53-23.png?raw=true" />
-<br>
-<br>
-<br>
-<img src="
+<h1>Clique na Imagem Abaixo</h1>
+<img align="left" alt="we care" width="300px" src="https://github.com/Thiago-Maia-github/We-Care/blob/master/assets/127.0.0.1_5500_index.html(iPhone%2012%20Pro)%20(1).png?raw=true" />
 
